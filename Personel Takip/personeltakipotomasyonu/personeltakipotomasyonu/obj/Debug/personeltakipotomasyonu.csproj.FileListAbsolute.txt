@@ -1,0 +1,161 @@
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+C:\Users\DURUKAN\Desktop\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYapilanZamlar.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimleriGoster.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersoneleGorePrimler.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesaiEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesailer.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelMesaileri.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesaiEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesailer.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelMesaileri.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimleriGoster.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersoneleGorePrimler.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYapilanZamlar.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\V17 25DAKİKA\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesaiEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesailer.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelMesaileri.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimEkle.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimleriGoster.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersoneleGorePrimler.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYapilanZamlar.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+C:\Users\DURUKAN\Desktop\Masaüstü\enesversiyonlar\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesaiEkle.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesailer.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelMesaileri.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimEkle.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimleriGoster.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersoneleGorePrimler.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYapilanZamlar.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+E:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesaiEkle.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesailer.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelMesaileri.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimEkle.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimleriGoster.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersoneleGorePrimler.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYapilanZamlar.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+D:\GÖRSEL PROGRAMLAMA PROJEM\hata mesajlı\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe.config
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.exe
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\bin\Debug\personeltakipotomasyonu.pdb
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.AnaSayfa.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmDepartmanlar.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmKullanici.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesaiEkle.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmMesailer.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelEkle.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelListele.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersonelMesaileri.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimEkle.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPrimleriGoster.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmPersoneleGorePrimler.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmSifremiUnuttum.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYapilanZamlar.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.frmYeniKullanici.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.Properties.Resources.resources
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.exe
+C:\Users\Enes Kaya\Desktop\Muhammet Enes KAYA Proje\personeltakipotomasyonu\personeltakipotomasyonu\obj\Debug\personeltakipotomasyonu.pdb
